@@ -1,0 +1,7 @@
+@module grunt_launcher
+@module_description Covenant Grunt Launcher
+@author Romain Melchiorre [ www.wavestone.com ]
+
+@feature grunt
+@description Launcher for grunt
+@option path_payload, , Path to the file containing the EncodedCommand of powershell grunt launcher
